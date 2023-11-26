@@ -2,6 +2,7 @@
 ref : https://next-auth.js.org/getting-started/example
 
 ref : https://github.com/bestculling/NextAuthGoogle/tree/main
+
 create project  : npx create-next-app@latest next-js-auth
 default value
 cd next-js-auth
