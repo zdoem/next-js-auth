@@ -1,6 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
+ref : https://next-auth.js.org/getting-started/example
+
+create project  : npx create-next-app@latest next-js-auth
+default value
+cd next-js-auth
+npm run dev
+
+# instatll next-auth
+npm i next-auth
+
+npm install next-auth
+npm install @next-auth/github @next-auth/google
+
+
+# google cloud platform
+- go to account google or provider
+- google cloud platform 
+
+# Configuration
+http://localhost:3000
+http://localhost:3000/api/auth/callback/google
+
+# useSeesion
+
+# install lib
+npm i @headlessui/react
+npm i @heroicons/react
+
+## ################################################
+
+# This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/# vercel/next.js/tree/canary/packages/create-next-app).
+
+
 
 First, run the development server:
 
