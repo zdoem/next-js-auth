@@ -21,6 +21,7 @@ npm install @next-auth/github @next-auth/google
 
 # Configuration
 http://localhost:3000
+
 http://localhost:3000/api/auth/callback/google
 
 # useSeesion
